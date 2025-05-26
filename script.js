@@ -40,8 +40,8 @@ function loadSection(num) {
     container.innerHTML = `
       <div class="section intro">
         <div class="heart-img"></div>
-        <h1 class="intro-title">Hi Love!</h1>
-        <p class="intro-sub">Hello Le’a, the love of my life. This website is a love letter to you, and I believe it truly captures the love that I have for you. I know you don’t really celebrate stuff like this but I don’t care, I’ll take any and every opportunity to show how much I love you. Happy one month anniversary <3 Click "Begin" to start reading 🥺💕</p>
+        <h1 class="intro-title">To my husband :)</h1>
+        <p class="intro-sub">Hello Le’a, the love of my life. This website is a love letter to you, and I believe it truly captures the love that I have for you. I know you don’t really celebrate stuff like this but I don’t care, I’ll take any and every opportunity to show how much I love you. Happy one month anniversary <3 </p>
         <button onclick="nextSection()">Begin</button>
       </div>
     `;
@@ -103,7 +103,7 @@ function loadSection(num) {
     container.innerHTML = `
       <div class="section" id="section7">
         <h2 class="intro-title">7. My Safe Space</h2>
-        <p class="intro-sub">YBeing with you feels like taking a deep breath after holding it for too long. With you, I don’t feel like I have to explain every little thing I’m feeling, you just get it. You’ve never made me feel like I’m “too much” or “too sensitive.” You’ve never rushed me to feel better or forced me to open up. You just stay, and that makes me feel safe. You make me feel safe. You let me be silly, soft, tired, sad, annoying or whatever version of me shows up, and you meet it with love. That’s something I’ve never had before. You make me feel like I can let my guard down and still be held, still be loved. That I can drop all facades and just be me around you, the real me. There’s something so rare about that. You’ve become my calm, my softness and my home, and I’ll never stop being thankful for you.</p>
+        <p class="intro-sub">Being with you feels like taking a deep breath after holding it for too long. With you, I don’t feel like I have to explain every little thing I’m feeling, you just get it. You’ve never made me feel like I’m “too much” or “too sensitive.” You’ve never rushed me to feel better or forced me to open up. You just stay, and that makes me feel safe. You make me feel safe. You let me be silly, soft, tired, sad, annoying or whatever version of me shows up, and you meet it with love. That’s something I’ve never had before. You make me feel like I can let my guard down and still be held, still be loved. That I can drop all facades and just be me around you, the real me. There’s something so rare about that. You’ve become my calm, my softness and my home, and I’ll never stop being thankful for you.</p>
         <img src="assets/images/img7.png" alt="Image 7" />
         <div><button onclick="prevSection()">Back</button><button onclick="nextSection()">Next</button></div>
       </div>
